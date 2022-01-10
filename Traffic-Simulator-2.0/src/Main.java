@@ -15,7 +15,7 @@ public class Main {
     private static final int SCALE = 8;
 
     public static void main(String[] args) {
-        // Simulation Window setup:
+        // Simulation Window setup :
         JFrame mainWindow = new JFrame("Traffic Simulator");
         mainWindow.setLayout(new BorderLayout());
         mainWindow.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
